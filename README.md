@@ -3,9 +3,13 @@ Grocery_Recommendation_System
 Team:
 
 Shruti Randive
+
 Amretasre Rengarajan
+
 Sraddha Pedda Gangireddy Gari
+
 Dharma Thanishq Nimmala
+
 
 Problem Statement:
 
