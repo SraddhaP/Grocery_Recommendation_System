@@ -9,7 +9,7 @@ Shruti Randive, Amretasre Rengarajan, Sraddha Pedda Gangireddy Gari, Dharma Than
 
 Problem Statement:
 
-One of the most common problems that a student faces as soon as they land in a new city or country is finding the food of their choice. Despite the plethora of restaurant options, generally, students will start with home-cooked food. With financial constraints, students usually tend to find the grocery they need at the best price available in the market. The other common issue faced by them is choosing the stores near their location
+One of the most common problems that a student faces as soon as they land in a new city or country is finding the food of their choice. Despite the plethora of restaurant options, generally, students will start with home-cooked food. With financial constraints, students usually tend to find the groceries they need at the best price available in the market. The other common issue faced by international students is choosing the stores near to their location.
 
 Objective:
 
