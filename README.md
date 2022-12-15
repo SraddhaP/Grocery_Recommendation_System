@@ -15,3 +15,6 @@ Objective:
 
 This project aims to assist users in buying groceries at the most affordable price or in the most convenient location possible, depending on their needs. The system will retrieve the desired product from the database and compare the pricing of the item from multiple retailers in accordance with the price stated. It also enables us to find the product details from the closest retailers based on the user's location. This system will also keep records of each employee of respective stores and these employees are allowed to add and update products for their specific store location.
 
+ER Diagram
+
+![DMDDfinal (2)](https://user-images.githubusercontent.com/114255867/207773577-00a321c3-80b6-4856-94b4-beab3d1a2f3a.jpg)
